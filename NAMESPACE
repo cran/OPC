@@ -1,0 +1,11 @@
+#¡¯ @importFrom np b.star
+
+importFrom(stats, cor)
+importFrom(stats, cov)
+importFrom(stats, qf)
+importFrom(MASS, ginv)
+export(IPC)
+
+export(PPC)
+
+export(SAPC)
