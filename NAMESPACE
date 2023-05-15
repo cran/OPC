@@ -1,4 +1,4 @@
-#¡¯ @importFrom np b.star
+#' @importFrom np b.star
 
 importFrom(stats, cor)
 importFrom(stats, cov)
